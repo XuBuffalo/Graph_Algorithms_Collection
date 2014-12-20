@@ -1,5 +1,5 @@
 /*  Disjoint Set
-**  @Author: X
+**  @Author: Xu
 **  Date: Dec,19th,2014
 */
 #ifndef _DISJOINT_SETS_
