@@ -1,5 +1,6 @@
 /* Ford Fulkerson algorithm -- Max flow
  * */
+ // http://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm
 #include <iostream>
 #include <climits>
 #include <string>
